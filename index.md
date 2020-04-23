@@ -20,7 +20,7 @@ In order to protect my participants’ identities, I will delete video files onc
 
 #Access and data sharing
 
-Because my PI is not expert on all of the analytical tools I would like to use, she has told me I will need to work with another faculty member for part of the project design and analysis. I may also need to use student coders to analyze videos of the workshops, but no one besides my PI and myself would have access to all of the raw data. If anyone leaves the project, their access to the data will be revoked.
+If necessary, additional faculty members may be recruited to add expertise with certain analytical tools. I may also use student coders to analyze videos of the workshops, but no one besides my PI and myself would have access to all of the raw data. If anyone leaves the project, their access to the data will be revoked.
 
 #Archiving and data sharing
 
